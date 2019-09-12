@@ -1,2 +1,5 @@
 # craftcamp2019
- 
+2019/09/08  
+CRAFTCAMP 2019  
+KYOTO AQUARIUM  
+TouchDesigner 099 Build 2019.30550
