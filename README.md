@@ -15,6 +15,6 @@ TouchDesigner 099 Build 2019.30550
 OS :  
 macOS 10.14.6
 
-Output Device :
+Output Device :  
 60px LED with DMX *32
 8px LED with SPI * 4
